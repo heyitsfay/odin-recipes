@@ -1,0 +1,1 @@
+This is the Recipes Project from the HTML foundations module in The Odin Project's curriculum. 
